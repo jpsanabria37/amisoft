@@ -12,7 +12,11 @@ namespace BLL
         private string nombre;
         private string descripcion;
 
-        public Rol() { }
+        public Rol()
+        {
+        
+        }
+
         public Rol(int id, string nombre, string descripcion)
         {
             this.id = id;

@@ -1,0 +1,1 @@
+C:\laragon\www\.NET sena\TRIMESTRE I\amisoft\SolucionAmiSoft\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
